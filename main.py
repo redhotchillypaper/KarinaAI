@@ -11,3 +11,4 @@ if __name__ == "__main__":
 # terminal app
 # database
 # microphone
+# doin smth like opening apps
